@@ -269,7 +269,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   left: 10px;
-  top: 400px;
+  top: 50%;
 }
 @media (max-width: 550px) {
   .social {
